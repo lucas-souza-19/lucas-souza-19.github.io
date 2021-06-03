@@ -21,7 +21,7 @@
 - Baixe o [Zip do código](https://github.com/lucas-souza19/Portfolio_Pessoal)
 - Descompacte o arquivo e abra no VS Code
 - Instale e utilize o Live Server para criar um servidor local
-- Acessa a porta [localhost:3000](http://localhost:3000) do navegador 
+- Acesse a porta [localhost:3000](http://localhost:3000) do navegador 
 - Ótimo, o projeto está funcionando!
 
 
