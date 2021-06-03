@@ -13,9 +13,7 @@
 
 <br>
 
-<h2 align="center">
-  HomePage
-</h2>
+---
 
 ## 👨🏾‍💻 Instalar  
 
